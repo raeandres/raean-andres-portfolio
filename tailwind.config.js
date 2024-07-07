@@ -25,7 +25,7 @@ module.exports = {
     extend: {
 
       colors: {
-        primary: "#1c1d22",
+        primary: "#05090d",
         accent: {
           DEFAULT: "#00ff99",
           hover: "#00e187",
@@ -50,3 +50,9 @@ module.exports = {
   },
   plugins: [require("tailwindcss-animate")],
 }
+
+
+{/**
+  #05090d - stormy blue 
+  #1c1d22 - russian black
+   */}
